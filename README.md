@@ -98,6 +98,8 @@ Create Organizational Units (OUs), security groups, and user accounts inside the
 ---
 
 ## 📂 Repository Structure
+/screenshots
+README.md
 
 
 ---
